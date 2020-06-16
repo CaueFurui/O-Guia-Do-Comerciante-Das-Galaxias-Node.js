@@ -1,0 +1,12 @@
+glob e I
+prok e V
+pish e X
+tegj e L
+glob glob Silver e 34 creditos
+glob prok Gold e 57800 creditos
+pish pish Iron e 3910 creditos
+quanto custa pish tegj glob glob ?
+quantos creditos sao glob prok Silver ?
+quantos creditos sao glob prok Gold ?
+quantos creditos sao glob prok Iron ?
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
